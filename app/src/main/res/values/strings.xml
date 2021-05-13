@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">EIE Student Assistant Tool</string>
+    <string name="enter_todo_hint">e.g., Tutorial</string>
+    <string name="today_calendar_button">Today</string>
+    <string name="empty_field">Empty task</string>
+    <string name="due_date_text">Due Date</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="this_wknd">This Weekend</string>
+    <string name="next_week">Next Week</string>
+    <string name="radio_high">Lecture</string>
+    <string name="radio_med">Exam/CAT</string>
+    <string name="radio_low">Assignment</string>
+    <string name="image_description">button image</string>
+    <string name="about_text">Add About Text</string>
+    <string name="add_todos">Add a Todo…</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="course_name">Course Name</string>
+    <string name="course_number">Course Number</string>
+    <string name="remove">Remove</string>
+    <string name="add">Add</string>
+    <string-array name="course_codes">
+        <item>502</item>
+        <item>512</item>
+        <item>522</item>
+        <item>532</item>
+        <item>542</item>
+        <item>552</item>
+        <item>582</item>
+    </string-array>
+</resources>
